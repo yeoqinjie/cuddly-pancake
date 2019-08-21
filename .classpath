@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8">
+<classpath>
+    <classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.16/webapps/jsplesson/lib/javax.servlet-api-4.0.1.jar" />
+    <classpathentry kind="lib" path="/usr/local/apache-tomcat-9.0.16/webapps/jsplesson/lib/mysql-connector-java-8.0.15.jar" />
+</classpath>
